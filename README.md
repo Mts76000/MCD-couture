@@ -1,4 +1,5 @@
-# MCD-couture
+# MCD-couture v1
+
 Site vitrine de couture
 
 http://mcd.alwaysdata.net/index.html
